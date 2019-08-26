@@ -1,0 +1,11 @@
+5.输入 git remote add origin 加上 你刚刚复制的路径
+
+6.输入 git pull origin master 命令，将仓库pull到文件夹
+
+7.将要上传的文件，添加到文件夹
+
+8.使用 git add .  （. 表示所有的）
+
+9.使用 git commit -m '添加文件内容描述' 
+
+10.使用 git push origin master  将本地仓库上传
